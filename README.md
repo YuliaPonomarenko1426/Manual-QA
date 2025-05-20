@@ -15,4 +15,4 @@ Jira • Postman • DevTools • Git • TestRail • SQL (базово)
 
 ## 🔗 Контакти:
 📧 iulialyska4@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/feed/)
+🔗 [LinkedIn](https://www.linkedin.com/юлія_пономаренко/)
